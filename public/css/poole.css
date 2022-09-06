@@ -263,6 +263,15 @@ tbody tr:nth-child(odd) th {
   font-weight: bold;
 }
 
+/*
+ * Side Messages
+ */
+
+.side_message {
+  font-size: 2.25rem;
+  font-weight: bold;
+}
+
 
 /*
  * Messages
