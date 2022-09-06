@@ -271,6 +271,7 @@ tbody tr:nth-child(odd) th {
   font-size: 5.25rem;
   font-weight: 1000;
   color: #717171;
+  background-color: #f9f9f9;
 }
 
 
