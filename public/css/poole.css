@@ -270,6 +270,7 @@ tbody tr:nth-child(odd) th {
 .side_message {
   font-size: 1.25rem;
   font-weight: 800;
+  color: #fff;
 }
 
 
