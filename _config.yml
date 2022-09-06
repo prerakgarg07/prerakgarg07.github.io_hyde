@@ -4,14 +4,24 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            Prerak Garg
-
+tagline:          'A Jekyll theme'
 description:      'I am final year astronomy PhD candidate at University of Florida. I work on modeling nebular line emission in galaxy formation simulations.'
 url:              https://prerakgarg07.github.io
 baseurl:          /
 
+author:
+  name:           'Prerak Garg'
+  url:            https://twitter.com/prerakgarg
+
+paginate:         5
+
 github:
   repo:           https://github.com/prerakgarg07/prerakgarg07.github.io
+  
 
+# Custom vars
+version:          2.1.0
